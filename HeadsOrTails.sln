@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadsOrTails", "HeadsOrTails\HeadsOrTails.csproj", "{AD33B47E-EB4F-4710-9B1C-E549111D201C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD33B47E-EB4F-4710-9B1C-E549111D201C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD33B47E-EB4F-4710-9B1C-E549111D201C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD33B47E-EB4F-4710-9B1C-E549111D201C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD33B47E-EB4F-4710-9B1C-E549111D201C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {000BE308-82F5-4E76-AA3D-8DA5A6917B5A}
+	EndGlobalSection
+EndGlobal
